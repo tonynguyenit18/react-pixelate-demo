@@ -1,0 +1,26 @@
+.form-item {
+  display: flex;
+  margin: 10px 0;
+}
+
+.form-label {
+  text-align: left;
+  font-size: 20px;
+  font-weight: 500;
+  width: 200px;
+}
+
+input[type="checkbox"] {
+  /* Double-sized Checkboxes */
+  -ms-transform: scale(2); /* IE */
+  -moz-transform: scale(2); /* FF */
+  -webkit-transform: scale(2); /* Safari and Chrome */
+  -o-transform: scale(2); /* Opera */
+  transform: scale(2);
+  padding: 10px;
+}
+
+input[type="number"] {
+  padding: 5px;
+  font-size: 20px;
+}

@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.0fff1748.chunk.css",
-    "main.js": "/static/js/main.bda0272a.chunk.js",
-    "main.js.map": "/static/js/main.bda0272a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a91aa08c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a91aa08c.js.map",
-    "static/js/2.0b9d8eb3.chunk.js": "/static/js/2.0b9d8eb3.chunk.js",
-    "static/js/2.0b9d8eb3.chunk.js.map": "/static/js/2.0b9d8eb3.chunk.js.map",
-    "static/js/3.b1b1bd2f.chunk.js": "/static/js/3.b1b1bd2f.chunk.js",
-    "static/js/3.b1b1bd2f.chunk.js.map": "/static/js/3.b1b1bd2f.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.0fff1748.chunk.css.map": "/static/css/main.0fff1748.chunk.css.map",
-    "static/js/2.0b9d8eb3.chunk.js.LICENSE.txt": "/static/js/2.0b9d8eb3.chunk.js.LICENSE.txt",
-    "static/media/image.be024a10.png": "/static/media/image.be024a10.png"
+    "main.css": "/react-pixelate-demo/static/css/main.0fff1748.chunk.css",
+    "main.js": "/react-pixelate-demo/static/js/main.bda0272a.chunk.js",
+    "main.js.map": "/react-pixelate-demo/static/js/main.bda0272a.chunk.js.map",
+    "runtime-main.js": "/react-pixelate-demo/static/js/runtime-main.5243f622.js",
+    "runtime-main.js.map": "/react-pixelate-demo/static/js/runtime-main.5243f622.js.map",
+    "static/js/2.0b9d8eb3.chunk.js": "/react-pixelate-demo/static/js/2.0b9d8eb3.chunk.js",
+    "static/js/2.0b9d8eb3.chunk.js.map": "/react-pixelate-demo/static/js/2.0b9d8eb3.chunk.js.map",
+    "static/js/3.b1b1bd2f.chunk.js": "/react-pixelate-demo/static/js/3.b1b1bd2f.chunk.js",
+    "static/js/3.b1b1bd2f.chunk.js.map": "/react-pixelate-demo/static/js/3.b1b1bd2f.chunk.js.map",
+    "index.html": "/react-pixelate-demo/index.html",
+    "static/css/main.0fff1748.chunk.css.map": "/react-pixelate-demo/static/css/main.0fff1748.chunk.css.map",
+    "static/js/2.0b9d8eb3.chunk.js.LICENSE.txt": "/react-pixelate-demo/static/js/2.0b9d8eb3.chunk.js.LICENSE.txt",
+    "static/media/image.be024a10.png": "/react-pixelate-demo/static/media/image.be024a10.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a91aa08c.js",
+    "static/js/runtime-main.5243f622.js",
     "static/js/2.0b9d8eb3.chunk.js",
     "static/css/main.0fff1748.chunk.css",
     "static/js/main.bda0272a.chunk.js"
